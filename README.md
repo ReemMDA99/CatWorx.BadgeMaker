@@ -50,7 +50,7 @@
   TBD
 
   ## Screenshot
-  ![Screenshot](./assets/images/sample.png)
+  ![Screenshot](./data/images/sample.png)
 
   ## Features
   TBD
