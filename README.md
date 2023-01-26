@@ -31,30 +31,6 @@
   * Use pseudocode to break down each step ahead of time and outline your workflow
   * Compile and run application in VS Code
 
- 
-  ## Table of Contents
-  - [Description](#description)
-  - [Documentation](#documentation)
-  - [Usage](#usage)
-  - [Screenshot](#screenshot)
-  - [Features](#features)
-  - [Acknowledgements](#acknowledgements)
-  - [License](#license)
-  - [Testing](#testing)
-  - [Contact](#contact)
-
-  ## Documentation
-  TBD
- 
-  ## Usage
-  TBD
-
-  ## Screenshot
-  ![Screenshot](./data/images/sample.png)
-
-  ## Features
-  TBD
-  
   # Acknowledgements
   Reem Ahmed
     
